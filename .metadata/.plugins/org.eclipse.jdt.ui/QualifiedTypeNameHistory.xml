@@ -3,5 +3,7 @@
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="chess.Color"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
 </qualifiedTypeNameHistroy>
