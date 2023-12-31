@@ -134,7 +134,7 @@ public class ChessMatch {
 		ChessPiece newPiece = newPiece(type, promoted.getColor());
 		board.placePiece(newPiece, pos);
 		piecesOnTheBoard.add(newPiece);
-		return newPiece;
+		return newPiece
 	}
 	
 	private ChessPiece newPiece(String type, Color color) {
