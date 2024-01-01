@@ -25,6 +25,6 @@ hs_err_pid*
 # Eclipse
 .settings/
 
-#some past
-/info
-/hooks
+#some folders
+info/
+hooks/
